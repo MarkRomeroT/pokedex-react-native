@@ -17,14 +17,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+    "ios": { },
+    "android": { "package": "com.pokeapi.pokedex", "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
